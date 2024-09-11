@@ -1,2 +1,4 @@
 Video: https://www.youtube.com/watch?v=NfvtQ2p5QG4&list=PLcq2lB3abPCXGEZqFb2XiGwBOq-BCafyM&index=30
-source coude: https://github.com/sahandghavidel/HTML-CSS-JavaScript-projects-for-beginners/tree/main
+source code: https://github.com/sahandghavidel/HTML-CSS-JavaScript-projects-for-beginners/tree/main
+Pictures: https://unsplash.com/s/photos/user
+Testimonials: https://www.trustugc.com/ai-testimonial-generator
